@@ -471,7 +471,3 @@ Jika project ini membantu:
 📢 Bagikan ke teman
 
 ---
-
-# 📜 License
-
-Project ini menggunakan lisensi MIT dan bebas digunakan untuk pembelajaran.
