@@ -1,8 +1,4 @@
 # Praktikum_Algoritma_Pemrograman_2_UTS
-# 🔁 Recursive Arithmetic Python Project
-
-> README ini sudah dikonversi full Markdown dan siap langsung di-copy ke file `README.md` pada GitHub.
-
 <div align="center">
 
 # 📘 UTS Struktur Data & Algoritma
